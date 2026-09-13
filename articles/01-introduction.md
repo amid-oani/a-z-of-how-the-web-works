@@ -33,7 +33,7 @@ Today, things are remarkably different. You can send a message to someone on the
 
 We have become so accustomed to this speed that it hardly surprises us anymore. But think about what is actually happening: information is leaving one device and reaching another device somewhere else, often almost instantly. **How is that possible? What makes this kind of communication feasible?**
 
-To respond to those questions, we need to start with something that sits at the heart of our modern digital world: **computers.**
+To respond to these questions, we need to start with something that sits at the heart of our modern digital world: **computers.**
 
 
 ## Computers
@@ -51,7 +51,7 @@ Once computers can communicate with other computers, they can exchange informati
 This brings us to one of the most important ideas we'll need to understand throughout this series: **networks**.  
 
 
-## Computers talking to computers (XX checkout later)
+## Computers talking to computers
 A computer can do a lot on its own. It can store your files, run applications, process information and perform countless tasks.
 
 And when you connect two computers together, now they can exchange information.
@@ -69,20 +69,16 @@ But what happens when one network needs to communicate with another network?
 That's where things start getting really interesting.
 
 ## Networks talking to networks
-We now have computers connected to one another, forming networks.
+We now have computers connected to one another, forming networks.  
+However, these networks don't have to exist in isolation.
 
-However, these networks don't have to exist in isolation.  
-Imagine a network in your home. Your phone, laptop and other devices might all be connected to the same Wi-Fi network. Now imagine that network being connected to another network in your neighbourhood. That network can connect to another one in your city, which can connect to another somewhere else.
-
-The idea can continue on a much, much larger scale.
+Imagine a network in your home. Your phone, laptop and other devices might all be connected to the same Wi-Fi network. Now imagine that network being connected to another network in your neighbourhood. That network can connect to another one in your city, which can connect to another somewhere else. The idea can continue on a much, much larger scale.
 
 Networks can connect to other networks, allowing computers on one network to communicate with computers on another. Eventually, we end up with an enormous collection of interconnected networks spanning countries and continents.  
 
 This is the basic idea behind the **Internet**.
 
-The Internet isn't one giant computer sitting somewhere in the world. It's a vast system of interconnected networks that allows devices around the world to communicate and exchange information.  
-
-And this is the infrastructure on which the Web operates.
+The Internet isn't one giant computer sitting somewhere in the world. It's a vast system of interconnected networks that allows devices around the world to communicate and exchange information. And this is the infrastructure on which the Web operates.
 
 But before we dive into the Web itself, there's an important distinction we need to make: **the Internet and the Web are not the same thing.**
 
