@@ -1,0 +1,21 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Temporary/editor files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Environment/secrets
+.env
+.env.*
+!.env.example
