@@ -1,5 +1,5 @@
 
-# A-Z OF HOW THE WEB WORKS: #1 INTRODUCTION
+# A-Z of how the web works: #1 Introduction
 
 "I'm online."  
 
@@ -7,7 +7,7 @@ Two simple words.
 You probably don't think twice before saying them. In fact, there's a good chance you are online right now.  
 But what does "online" actually mean?
 
-It means you can send a message to someone thousands of kilometers away and have them receive it almost instantly.  
+It means you can send a message to someone thousands of kilometres away and have them receive it almost instantly.  
 It means you can watch a movie stored on a computer somewhere in another part of the world.  
 It means you can make a payment without physically handing money to another person.  
 It means you can open your browser, type a website address and, within seconds, have information from a computer somewhere else displayed on your screen.
@@ -22,7 +22,18 @@ How does a website get from a computer somewhere in the world to the screen in f
 
 To answer these questions, we first need to understand how we got here.
 
-## Communication changed
+## Table of Contents
+- [A-Z of how the web works: #1 Introduction](#a-z-of-how-the-web-works-1-introduction)
+  - [Table of Contents](#table-of-contents)
+  - [1. Communication changed](#1-communication-changed)
+  - [2. Computers](#2-computers)
+  - [3. Computers talking to computers](#3-computers-talking-to-computers)
+  - [4. Networks talking to networks](#4-networks-talking-to-networks)
+  - [5. The internet isn't the Web](#5-the-internet-isnt-the-web)
+  - [6. So... how does the Web actually work?](#6-so-how-does-the-web-actually-work)
+  - [7. The roadmap](#7-the-roadmap)
+
+## 1. Communication changed
 Communication has not always been this easy.
 
 Not too long ago, if you wanted to send a message to someone who lived far away, you might have had to write a letter, take it to a post office and wait for it to be delivered. Depending on where the person lived, that could take days, weeks, or even longer. You could also rely on someone travelling to that location to deliver the message for you.
@@ -36,7 +47,7 @@ We have become so accustomed to this speed that it hardly surprises us anymore. 
 To respond to these questions, we need to start with something that sits at the heart of our modern digital world: **computers.**
 
 
-## Computers
+## 2. Computers
 Humans have always needed to communicate and share information. We use words, sounds, images, gestures and countless other ways to express and exchange ideas.
 
 Computers gave us a completely different way of handling that information.
@@ -51,7 +62,7 @@ Once computers can communicate with other computers, they can exchange informati
 This brings us to one of the most important ideas we'll need to understand throughout this series: **networks**.  
 
 
-## Computers talking to computers
+## 3. Computers talking to computers
 A computer can do a lot on its own. It can store your files, run applications, process information and perform countless tasks.
 
 And when you connect two computers together, now they can exchange information.
@@ -68,7 +79,7 @@ But what happens when one network needs to communicate with another network?
 
 That's where things start getting really interesting.
 
-## Networks talking to networks
+## 4. Networks talking to networks
 We now have computers connected to one another, forming networks.  
 However, these networks don't have to exist in isolation.
 
@@ -82,7 +93,7 @@ The Internet isn't one giant computer sitting somewhere in the world. It's a vas
 
 But before we dive into the Web itself, there's an important distinction we need to make: **the Internet and the Web are not the same thing.**
 
-## The internet isn't the web
+## 5. The internet isn't the Web
 At this point, you might be thinking that we've been talking about the Web all along.
 
 No. That's not it.
@@ -107,7 +118,7 @@ Now that we have that distinction out of the way, we can finally start focusing 
 
 But what exactly happens when you type a website address into your browser and press **Enter**?
 
-## So... how does the Web actually work?
+## 6. So... how does the Web actually work?
 Now that we know what the Internet is and how it relates to the Web, let's return to something we do almost every day.
 
 You open your browser.
@@ -144,7 +155,7 @@ These are the questions we'll be answering throughout this series.
 
 Let's take the journey from the very beginning.
 
-## The roadmap
+## 7. The roadmap
 So, how are we going to answer all these questions?
 
 We're going to build our understanding from the ground up.
