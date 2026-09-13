@@ -186,7 +186,7 @@ We'll start with the basics, build each piece one at a time, and eventually put 
 ## 8. Final note
 This series is intended to be a comprehensive dive into understanding the workings of the Web.  
 
-Please ask any question, give insights, call me to my mistakes, or any other thing to better understand and/or assist in making this series as comprehensive and easily understood as possible.  
+Please ask any question, give insights, call me to any mistake. I am open to criticism or discussion that'll aid better understanding and will assist in making this series as easily understood as possible.  
 
 It'll be a long ride. I know I'll enjoy it. Hopefully you will too.
 
