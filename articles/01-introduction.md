@@ -32,9 +32,10 @@ To answer these questions, we first need to understand how we got here.
   - [5. The internet isn't the Web](#5-the-internet-isnt-the-web)
   - [6. So... how does the Web actually work?](#6-so-how-does-the-web-actually-work)
   - [7. The roadmap](#7-the-roadmap)
+  - [8. Final note](#8-final-note)
 
 ## 1. Communication changed
-Communication has not always been this easy.
+Communication hasn't always been this easy.
 
 Not too long ago, if you wanted to send a message to someone who lived far away, you might have had to write a letter, take it to a post office and wait for it to be delivered. Depending on where the person lived, that could take days, weeks, or even longer. You could also rely on someone travelling to that location to deliver the message for you.
 
@@ -80,7 +81,7 @@ But what happens when one network needs to communicate with another network?
 That's where things start getting really interesting.
 
 ## 4. Networks talking to networks
-We now have computers connected to one another, forming networks.  
+We now have computers connected to one another, forming networks.   
 However, these networks don't have to exist in isolation.
 
 Imagine a network in your home. Your phone, laptop and other devices might all be connected to the same Wi-Fi network. Now imagine that network being connected to another network in your neighbourhood. That network can connect to another one in your city, which can connect to another somewhere else. The idea can continue on a much, much larger scale.
@@ -181,3 +182,12 @@ We'll return to the simple action we started with:
 This time, however, we'll follow the entire journey—from your device, through your network and ISP, across the Internet, to the server and back again—before seeing how your browser turns the response into the webpage you eventually see and interact with.
 
 We'll start with the basics, build each piece one at a time, and eventually put the entire puzzle together.
+
+## 8. Final note
+This series is intended to be a comprehensive dive into understanding the workings of the Web.  
+
+Please ask any question, give insights, call me to my mistakes, or any other thing to better understand and/or assist in making this series as comprehensive and easily understood as possible.  
+
+It'll be a long ride. I know I'll enjoy it. Hopefully you will too.
+
+Onto the next!
